@@ -181,10 +181,6 @@ It contains useful links users may need it.
 
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
-# Live Demo
-
-***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
-
 
 # Technology Used
 
