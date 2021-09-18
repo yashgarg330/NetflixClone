@@ -310,24 +310,5 @@ npm start
 Happy Hacking!
 
 
-# Author
-
-👤 **Ahmed Tohamy**
-- Github: https://github.com/AhmedTohamy01
-- Linkedin: https://www.linkedin.com/in/ATohamy
-- Email: Ahmed-Tohamy@outlook.com
-
-# Show Your Support
-
-Give a ⭐️ if you like this project!
-
-# Acknowledgments
-
-Hat tip to everyone helped me to learn the techniques used in building this project.
-
-# License 
-
-MIT License.
-
 
 
